@@ -8,7 +8,7 @@
 [![Lang: 中文](https://img.shields.io/badge/lang-中文-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
-> 📢 **本提案正在公开征集意见。** 欢迎在 Discussions 或 Issues 中对任何一条改造提出看法、质疑、经验或改进建议。
+> 📢 **本提案正在公开征集意见。** 欢迎在 [Discussions](https://github.com/Yun-564/ai-memory-humanization-rfc/discussions/1) 或 [Issues](https://github.com/Yun-564/ai-memory-humanization-rfc/issues) 中对任何一条改造提出看法、质疑、经验或改进建议。
 > 完整设计见 [docs/RFC-001.md](docs/RFC-001.md)。
 
 </div>
@@ -43,7 +43,7 @@
 
 ## 如何参与讨论
 
-1. **Discussions**：到仓库 Discussions 的 💡 Ideas 板块发言（首选）；
+1. **Discussions**：到 [💡 Ideas 讨论帖](https://github.com/Yun-564/ai-memory-humanization-rfc/discussions/1) 发言（首选）；
 2. **Issues**：新建 issue 参与逐条讨论；
 3. **Pull Request**：直接对文档提交修改建议。
 
